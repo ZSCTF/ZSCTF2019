@@ -1,0 +1,7 @@
+题目：签到题
+
+分数：50
+
+描述：无
+
+flag:zsctf{we1c0me5t07zsctf2019hhhh}

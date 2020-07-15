@@ -1,0 +1,14 @@
+题目：Algorithm-optimization Crypto Master
+
+简介：
+by WEGFan
+
+“噢嗨呦米娜桑，欸都，我是ctf时长两年半的个人练习生子怡酱，思ki捞，咕咕咕，噢都，打错自己的QQ号、代码。”
+ctf练习生子怡酱拥有一台性能强劲的超算，他用超算运行自己的代码轻松得到了flag。
+贫穷的你并没有超算，可是你也想得到flag。
+
+提示：算法优化
+
+分数：反正比海蓝出的 web 题低
+
+flag：zsctf{4790_JusT_RaNdOm}

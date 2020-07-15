@@ -1,0 +1,13 @@
+welcome to zsctf2019
+本场比赛为 zsctf 的第三次校赛，旨在让大家有机会了解接触安全行业的部分情况，为学校所没有涉及的领域填补空缺，也旨在为 zsctf 校队招生。
+因吸收前两次校赛的经验，本次比赛难度从之前的小学生难度降至幼儿园难度，请大家放心食用，也请参赛选手不要恶意攻击比赛平台和比赛环节，后端全程会有流量监控，给大家一个良好
+的比赛环境。
+
+本赛事主办什么都负责负责人： zhakul(https://zhakul.top)
+
+题目提供：海蓝、Docupa、zhakul、WEGFan、Melody
+环境搭建运维：zhakul、techial、三线
+
+那么，我们开始吧。
+
+本题flag:zsctf{we1c0me5t07zsctf2019hhhh}
